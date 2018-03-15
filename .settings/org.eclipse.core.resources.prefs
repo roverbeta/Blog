@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/jsp/article.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/index.jsp=UTF-8
+encoding//src/test/java/org/blog/dao/ArticleDaoTest.java=UTF-8
